@@ -1,0 +1,132 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}.burger{
+    width: 40px;
+}.food{
+    width: 60.81px;
+height: 36.77px;
+font-family: Source Sans Pro;
+font-size: 31px;
+font-weight: 700;
+line-height: 37px;
+letter-spacing: -0.025em;
+text-align: left;
+color:rgb(247, 115, 7);
+
+}.wagon{
+    width: 90.5px;
+height: 36.77px;
+font-family: Source Sans Pro;
+font-size: 31px;
+font-weight: 700;
+line-height: 37px;
+letter-spacing: -0.02em;
+text-align: left;
+color: var(--Theme-Primary, #FFB30E);
+font-family: Source Sans Pro;
+font-size: 31.11px;
+font-style: normal;
+font-weight: 700;
+line-height: 120%;
+letter-spacing: -0.778px;
+
+
+}.bus{
+    display: flex;
+}.navbar-main{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}.deliver{
+    color: var(--Theme-Gray-800, #424242);
+text-align: center;
+padding-right: 4px;
+
+
+font-family: Source Sans Pro;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 100%; 
+}.map{
+    width: 10px;
+    
+}.para-map{
+    display: flex;
+    align-items: center;
+}.pur{
+    color: var(--Theme-Gray-800, #424242);
+text-align: center;
+padding-left: 4px;
+
+
+font-family: Open Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 140%;
+}.search{
+    width: 20px;
+    padding-right: 5px;
+    align-items: center;
+}.food-search{
+    color: var(--Theme-Gray-800, #424242);
+text-align: center;
+padding-right: 10px;
+align-items: center;
+
+
+font-family: Source Sans Pro;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 100%; 
+}.log{
+    display: flex;
+    align-items: center;
+}.yellow-b{
+    align-items: center;
+    display: flex;
+    width: 70px;
+    height: 27px;
+    background-color: white;
+    border:white 1px solid;
+    box-shadow: orange 5px;
+    display: flex;
+    padding: 14px 15px;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    border-radius: 8px;
+    background: #FFF;
+    
+
+box-shadow: 0px 20px 40px 0px rgba(255, 174, 0, 0.29), 0px 5px 10px 0px rgba(255, 174, 0, 0.26);
+    
+    
+    
+}.user{
+    width: 10px;
+
+}.login-st{
+padding-left: 5px;
+text-align: center;
+
+
+font-family: Source Sans Pro;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 100%;
+color:orange;
+
+
+}.location{
+    padding-left: 4px;}
+    

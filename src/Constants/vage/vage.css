@@ -1,0 +1,36 @@
+.grey{
+    color: var(--Theme-Gray-800, #424242);
+
+
+font-family: Source Sans Pro;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 120%; 
+margin-top: 15px;
+}.days6{
+    width: 120px;
+    height: 30px;
+    margin-top: 10px;
+    background: rgb(250, 234, 247);
+    border: rgb(250, 234, 247);
+    border-radius: 8px;
+}.fruit{
+    width: 250px;
+}.remaning{
+    color: var(--Theme-Warning, #F17228);
+
+
+font-family: Source Sans Pro;
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+line-height: 120%; 
+}.card-veg{
+    display: flex;
+    margin-left: 160px;
+    margin-right: 160px;
+    justify-content: space-between;
+    margin-top: 30px;
+    
+}
